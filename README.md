@@ -14,6 +14,8 @@ My ultimate aim is to develop innovative products that solve real-world problems
    • Startups<br>
    • Research<br>
  
+ Blog:
+ https://widgets.sociablekit.com/medium-publication-feed/iframe/119255
 
 😄 Pronouns:
    He/Him/His
