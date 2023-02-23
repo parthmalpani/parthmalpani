@@ -45,7 +45,9 @@ Interested in working together? Let's have a talk!! <br>
    • Project Development<br>
    • Startups<br>
    • Research<br>
-
+   
+### Blog
+   <div class='sk-ww-medium-publication-feed' data-embed-id='119385'></div><script src='https://widgets.sociablekit.com/medium-publication-feed/widget.js' async defer></script>
 <br>
  
 
