@@ -15,7 +15,9 @@ My goal is to make a difference in the world by using technology to solve real-w
 
  <br>
 
-Interested in working together? Let's have a talk!! <br>
+Interested in working together? Let's have a talk!! 
+   <br>
+   
 🔭 I’m sharpening my Python skills through research and development. <br>
 🎓 I'm exploring the potential of Web 3 and data analysis to unlock new possibilities. <br>
 ⚡ Fun fact: I love to tinker with technology and have always been fascinated with how things work and have a natural ability to problem solve, which has helped me in my entrepreneurial endeavors.
