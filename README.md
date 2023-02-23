@@ -1,6 +1,3 @@
-###<div id="header" align="center">
-  <img src="![1655118957123 (1)](https://user-images.githubusercontent.com/125034671/220813825-c3daa5e2-59d7-4411-b113-edb4324a941b.jpeg)" width="100"/>
-</div> 
 Hey!
 
 👩‍💻  About Me : <br>
