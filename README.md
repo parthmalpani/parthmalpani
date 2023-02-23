@@ -13,9 +13,6 @@ My ultimate aim is to develop innovative products that solve real-world problems
    • Project Development<br>
    • Startups<br>
    • Research<br>
- 
- Blog:
-<div class='sk-ww-medium-publication-feed' data-embed-id='119255'></div><script src='https://widgets.sociablekit.com/medium-publication-feed/widget.js' async defer></script>
 
 <br>
 😄 Pronouns:
