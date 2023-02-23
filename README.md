@@ -8,11 +8,11 @@ My ultimate aim is to develop innovative products that solve real-world problems
 🌱 Skills: <br>!
 
 
-👯 I’m looking to collaborate on:
-   Python
-   Project Development
-   Startups
-   Research
+👯 I’m looking to collaborate on:<br>
+   Python<br>
+   Project Development<br>
+   Startups<br>
+   Research<br>
  
 
 😄 Pronouns:
