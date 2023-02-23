@@ -38,8 +38,6 @@ My ultimate aim is to develop innovative products that solve real-world problems
    • Research<br>
 
 <br>
-### 😄 Pronouns:
-   He/Him/His
  
 
 ### 📫 How to reach me: <br>
