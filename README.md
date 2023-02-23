@@ -14,7 +14,7 @@ My ultimate aim is to develop innovative products that solve real-world problems
 My goal is to make a difference in the world by using technology to solve real-world problems. I believe that by collaborating with others and learning from experts in the field, I can achieve this goal.
 
  <br>
-.<br>
+
 Interested in working together? Let's have a talk!! <br>
 🔭 I’m sharpening my Python skills through research and development. <br>
 🎓 I'm exploring the potential of Web 3 and data analysis to unlock new possibilities. <br>
