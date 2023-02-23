@@ -19,7 +19,7 @@ My ultimate aim is to develop innovative products that solve real-world problems
    He/Him/His
 
 📫 How to reach me: <br>
-   Mail ID: <a mailtoparth.malpani05@gmail.com <br>
+   Mail ID: parth.malpani05@gmail.com <br>
    LinkedIn: https://www.linkedin.com/in/parthmalpani/
 
 
