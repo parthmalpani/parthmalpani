@@ -6,7 +6,7 @@
 My ultimate aim is to develop innovative products that solve real-world problems and make a positive impact on people's lives. I am constantly thinking of new ideas and trying to improve upon existing solutions. I believe that with hard work, determination and a willingness to learn, I can achieve my dream of becoming a successful entrepreneur. In the future, I hope to lead a team of talented individuals and build a successful tech company that can contribute to the growth and development of the industry. I am excited to see where my journey with Python takes me and I am confident that with every challenge I face, I will become a better and more experienced entrepreneur.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/parth.malpani05=DenverCoder1)](https://git.io/streak-stats)
-
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 🌱 Skills: <br>!
 
