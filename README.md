@@ -45,6 +45,9 @@ Interested in working together? Let's have a talk!! <br>
    • Project Development<br>
    • Startups<br>
    • Research<br>
+   
+   <a href="https://widgets.sociablekit.com/medium-publication-feed/iframe/119385" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20My%20Medium%20Publication%20Feed-gray?style=flat-square&logo=medium" alt="View My Medium Publication Feed"></a>
+
  
 
 ### 📫 How to reach me: <br>
