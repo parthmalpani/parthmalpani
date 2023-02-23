@@ -5,8 +5,16 @@
    
 ### 👩‍💻  About Me : <br>
 ![GitHub Views](https://komarev.com/ghpvc/?username=parthmalpani05)
-<p dir="auto">I am a person who is passionate about STEM and the limitless possibilities it offers. My dream is to be a successful entrepreneur, and I believe that developing my skills in coding is the first step towards achieving that goal. I have chosen Python as my programming language of choice as it is versatile, user-friendly and widely used in the industry. I spend my days learning and practicing Python, building projects and experimenting with different libraries and frameworks. I have also been keeping myself updated with the latest advancements and trends in the field of technology. <br>
-My ultimate aim is to develop innovative products that solve real-world problems and make a positive impact on people's lives. I am constantly thinking of new ideas and trying to improve upon existing solutions. I believe that with hard work, determination and a willingness to learn, I can achieve my dream of becoming a successful entrepreneur. In the future, I hope to lead a team of talented individuals and build a successful tech company that can contribute to the growth and development of the industry. I am excited to see where my journey with Python takes me and I am confident that with every challenge I face, I will become a better and more experienced entrepreneur.<br>
+<p dir="auto"> Ever since I was young, I have always been fascinated by technology and how it can improve people's lives. As a 16-year-old entrepreneur, I have developed several tech projects, focusing primarily on Python programming. I have also started to learn about data analysis and web3, which has given me a broader perspective on the power of technology.
+
+Currently, I am working on hardware projects, which I find challenging but exciting. I am always looking to collaborate with like-minded individuals who share my passion for technology and innovation.
+
+
+My ultimate aim is to develop innovative products that solve real-world problems and make a positive impact on people's lives. I am constantly thinking of new ideas and trying to improve upon existing solutions. I believe that with hard work, determination and a willingness to learn, I can achieve my dream of becoming a successful entrepreneur. In the future, I hope to lead a team of talented individuals and build a successful tech company that can contribute to the growth and development of the industry. I am excited to see where my journey with Python takes me and I am confident that with every challenge I face, I will become a better and more experienced entrepreneur
+My goal is to make a difference in the world by using technology to solve real-world problems. I believe that by collaborating with others and learning from experts in the field, I can achieve this goal.
+
+ <br>
+.<br>
 Interested in working together? Let's have a talk!! <br>
 🔭 I’m sharpening my Python skills through research and development. <br>
 🎓 I'm exploring the potential of Web 3 and data analysis to unlock new possibilities. <br>
