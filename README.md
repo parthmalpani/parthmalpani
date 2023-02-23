@@ -1,7 +1,7 @@
-<div id="header" align="center">
+###<div id="header" align="center">
   <img src="![1655118957123 (1)](https://user-images.githubusercontent.com/125034671/220813825-c3daa5e2-59d7-4411-b113-edb4324a941b.jpeg)" width="100"/>
-</div>
-### Hey!
+</div> 
+Hey!
 
 👩‍💻  About Me : <br>
    I am a person who is passionate about STEM and the limitless possibilities it offers. My dream is to be a successful entrepreneur, and I believe that developing my skills in coding is the first step towards achieving that goal. I have chosen Python as my programming language of choice as it is versatile, user-friendly and widely used in the industry. I spend my days learning and practicing Python, building projects and experimenting with different libraries and frameworks. I have also been keeping myself updated with the latest advancements and trends in the field of technology.
