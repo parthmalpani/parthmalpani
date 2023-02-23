@@ -1,4 +1,8 @@
-### Hey!
+### <h1 align="center" dir="auto" color="white"><font color="white"><svg  viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"> Hey! I'm Parth! 
+   </h1>
+   
+   ### <p align="center">Researcher | Entrepreneur | Change-Maker | Technophile </p>
+   
 ### 👩‍💻  About Me : <br>
 ![GitHub Views](https://komarev.com/ghpvc/?username=parthmalpani05)
 <p dir="auto">I am a person who is passionate about STEM and the limitless possibilities it offers. My dream is to be a successful entrepreneur, and I believe that developing my skills in coding is the first step towards achieving that goal. I have chosen Python as my programming language of choice as it is versatile, user-friendly and widely used in the industry. I spend my days learning and practicing Python, building projects and experimenting with different libraries and frameworks. I have also been keeping myself updated with the latest advancements and trends in the field of technology. <br>
