@@ -4,7 +4,7 @@
    ### <p align="center">Researcher | Entrepreneur | Change-Maker | Technophile </p>
    
 ### 👩‍💻  About Me : <br>
-![GitHub Views](https://komarev.com/ghpvc/?username=parthmalpani05)
+![GitHub Views](https://komarev.com/ghpvc/?username=parthmalpani)
 <p dir="auto"> Ever since I was young, I have always been fascinated by technology and how it can improve people's lives. As a 16-year-old entrepreneur, I have developed several tech projects, focusing primarily on Python programming. I have also started to learn about data analysis and web3, which has given me a broader perspective on the power of technology. Currently, I am working on hardware projects, which I find challenging but exciting. I am always looking to collaborate with like-minded individuals who share my passion for technology and innovation.
 
 
